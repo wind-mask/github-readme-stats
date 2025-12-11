@@ -160,9 +160,9 @@ You can specify a year and fetch only the commits that were made in that year by
 
 ### Themes
 
-With inbuilt themes, you can customize the look of the card without doing any [manual customization](#customization).
+With inbuilt themes, you can customize the look of the card without doing any [manual customization](#customization)。
 
-Use `&theme=THEME_NAME` parameter like so :
+使用 `&theme=THEME_NAME` parameter like so :
 
 ```md
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
@@ -170,7 +170,7 @@ Use `&theme=THEME_NAME` parameter like so :
 
 #### All inbuilt themes
 
-GitHub Readme Stats comes with several built-in themes (e.g. `dark`, `radical`, `merko`, `gruvbox`, `tokyonight`, `onedark`, `cobalt`, `synthwave`, `highcontrast`, `dracula`).
+GitHub Readme Stats comes with several built-in themes (e.g. `dark`， `radical`, `merko`, `gruvbox`, `tokyonight`, `onedark`, `cobalt`, `synthwave`, `highcontrast`, `dracula`).
 
 <img src="https://res.cloudinary.com/anuraghazra/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stats Themes" width="600px"/>
 
@@ -953,3 +953,4 @@ Thanks! :heart:
 Contributions are welcome! <3
 
 Made with :heart: and JavaScript.
+
